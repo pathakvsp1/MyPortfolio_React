@@ -1,0 +1,33 @@
+.ml2 {
+    font-weight: 900;
+    font-size: 1.5em;
+  }
+  
+  .ml2 .letter {
+    display: inline-block;
+    line-height: 1em;
+  }
+  .ml4 {
+    color: aliceblue;
+    position: relative;
+    font-weight: 900;
+    font-size: 1.5em;
+  }
+  .ml4 .letters {
+    position: absolute;
+    margin: auto;
+    left: 0;
+    top: 0.3em;
+    right: 0;
+    opacity: 0; 
+  }
+  .ml3 {
+    color: rgb(42, 75, 224);
+    font-weight: 900;
+    font-size: 1.5em;
+  }
+  
+  .ml3 .letter {
+    display: inline-block;
+    line-height: 1em;
+  }
