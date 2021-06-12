@@ -13,7 +13,6 @@ const App=()=> {
   return (
     <>
    
-      
    <Navbar/>
    <Home/>
    <About/>
