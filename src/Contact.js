@@ -38,7 +38,7 @@ const Contact = () => {
                 </div>
                 <div className="column right">
                     <p className="quote"><h3>
-                    “If You Are Working On Something That You Really Care About, 
+                    “If You Are5 Working On Something That You Really Care About, 
                     You Don’t Have To Be Pushed. The Vision Pulls You.”</h3> 
                     <b>– Steve Jobs</b>
                 </p>
